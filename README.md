@@ -59,6 +59,10 @@ ____**Data Visualization**____<br />
 <img width="698" alt="Screen Shot 2022-12-08 at 1 00 13 AM" src="https://user-images.githubusercontent.com/67944800/216117227-e5918a4a-82ea-4f80-839b-b75a2c24b6d9.png">
 
 
+## Prediction
+* Predictive Model using Logistic Regression 
+* Accuracy ≈ 0.85<br>
+<img width="432" alt="Screen Shot 2023-09-21 at 1 44 43 PM" src="https://github.com/SeungPang11/CFPB-Consumer-Finance-Data-Analysis-Visualization-and-Prediction/assets/67944800/77b4605e-36c9-4c7b-ab28-ea2b692fc187"><br>
 
 
 
