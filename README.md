@@ -2,7 +2,7 @@
  
 _**Techniques**_: Logistics Regression, Machine Learning, Exploratory Data Analysis, Data Visualization <br />
 _**Tools**_: Python, Tableau
-
+  
 
 <img width="600" alt="Screen Shot 2023-09-15 at 11 04 21 AM" src="https://github.com/SeungPang11/CFPB-Consumer-Finance-Data-Analysis-Visualization-and-Prediction/assets/67944800/cea2dba7-548d-409a-8952-b25ecb96cdb8">
 
